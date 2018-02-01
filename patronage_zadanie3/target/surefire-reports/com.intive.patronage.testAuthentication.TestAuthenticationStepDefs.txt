@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.intive.patronage.testAuthentication.TestAuthenticationStepDefs
+-------------------------------------------------------------------------------
+Tests run: 46, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 144.899 sec
